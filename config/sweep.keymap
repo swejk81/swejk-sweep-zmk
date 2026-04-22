@@ -56,7 +56,7 @@
             bindings = <
                 &lt MSE Q    &kp W        &kp F       &kp P    &kp B      &kp J          &kp L    &kp U     &kp Y    &kp SLASH
                 &mt LSHFT A  &mt LCTRL R  &mt LALT S  &kp T    &kp G      &kp M          &kp N    &kp E     &kp I    &kp O
-                &bt BT_CLR        &kp X        &kp C       &kp D    &kp V      &kp K          &kp H    &kp COMMA &kp DOT  &kp SEMI
+                &bt BT_CLR        &kp A        &kp C       &kp D    &kp V      &kp K          &kp H    &kp COMMA &kp DOT  &kp SEMI
                                           &mt LGUI ESC &kp TAB            &lt NUM BSLH   &lt NAV SPACE
             >;
         };
